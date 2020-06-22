@@ -1,5 +1,5 @@
 import RPi.GPIO as GPIO
-Import time
+import time
 
 Input_Pin = 7
 GPIO.setmode(GPIO.BOARD)
