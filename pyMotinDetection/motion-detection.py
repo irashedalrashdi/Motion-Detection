@@ -10,7 +10,7 @@ for x in range(0, 500):
 	print('Detection')
     else:
 	print('No detection')
-    time.sleep(0.1)
+        time.sleep(0.1)
 	
 GPIO.cleanup()
 print('Done')
